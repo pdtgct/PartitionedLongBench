@@ -67,3 +67,8 @@ Answer:
 
 Using the LLaMA 2 Tokenizer, the above prompt, when `context` and `question` 
 are empty, is `98` tokens.
+
+
+## Large Files
+
+The dataset included here is over 100 MB so you will need to use git-lfs.
